@@ -1,0 +1,18 @@
+{
+  "model": "resnet50",
+  "use_crf": true,
+  "train_batch_size": 16,
+  "test_batch_size": 48,
+  "wsi_test_batch_size": 26,
+  "image_size": 768,
+  "patch_size": 256,
+  "crop_size": 224,
+  "lr": 0.001,
+  "momentum": 0.9,
+  "data_path": [
+    "./dataset/cls/img"
+  ],
+  "label_path": "./dataset/cls/label",
+  "epoch": 20,
+  "log_every": 100
+}
