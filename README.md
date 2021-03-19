@@ -82,6 +82,23 @@ Appreciate the great work from the following repositories:
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)
 - [miguelvr/dropblock](https://github.com/miguelvr/dropblock/tree/master/dropblock)
 
+### Citation
+
+```bibtex
+@article{wang_predicting_2021,
+	title = {Predicting gastric cancer outcome from resected lymph node histopathology images using deep learning},
+	volume = {12},
+	issn = {2041-1723},
+	url = {https://doi.org/10.1038/s41467-021-21674-7},
+	doi = {10.1038/s41467-021-21674-7},
+	number = {1},
+	journal = {Nature Communications},
+	author = {Wang, Xiaodong and Chen, Ying and Gao, Yunshu and Zhang, Huiqing and Guan, Zehui and Dong, Zhou and Zheng, Yuxuan and Jiang, Jiarui and Yang, Haoqing and Wang, Liming and Huang, Xianming and Ai, Lirong and Yu, Wenlong and Li, Hongwei and Dong, Changsheng and Zhou, Zhou and Liu, Xiyang and Yu, Guanzhen},
+	year = {2021},
+	pages = {1637}
+}
+```
+
 ### License
 
 This project is covered under the **Apache 2.0 License**.
